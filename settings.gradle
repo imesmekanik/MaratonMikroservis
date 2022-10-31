@@ -1,0 +1,5 @@
+rootProject.name = 'MaratonMikroservis'
+include 'urun-service'
+include 'config-server'
+include 'stok-service'
+
